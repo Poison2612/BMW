@@ -10,11 +10,11 @@ Welcome to the BMW Landing Page repository! This is a single-page website showca
 
 ## Preview
 
-[![BMW Landing Page Preview](link-to-preview-image)]([https://poison2612.github.io/BMW/)](https://poison2612.github.io/BMW/)
+[![BMW Landing Page Preview](link-to-preview-image)]([https://poison2612.github.io/BMW/)]
 
 ## How to Use
 
-Simply visit the [BMW Landing Page]([https://poison2612.github.io/BMW/](https://poison2612.github.io/BMW/)) to experience the CSS skills and BMW car models firsthand.
+Simply visit the [BMW Landing Page]([https://poison2612.github.io/BMW/]) to experience the CSS skills and BMW car models firsthand.
 
 ## Feedback and Contact
 
